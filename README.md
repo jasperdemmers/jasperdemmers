@@ -36,7 +36,7 @@
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=jasperdemmers&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=jasperdemmers&theme=transparent&hide_border=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jasperdemmers/jasperdemmers/output/github-contribution-grid-snake-dark.svg">
