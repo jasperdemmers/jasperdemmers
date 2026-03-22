@@ -6,7 +6,7 @@
 
 * **Building SimplePark:** I am the Co-Founder and Head of Engineering.
 * **Enterprise Engineering:** I work as a Software Engineer at Canon Production Printing.
-* **Studying:** I am pursuing a Bachelor's degree in Computer Systems Networking and Telecommunications at Fontys Hogeschool.
+* **Studying:** I am pursuing a Bachelor's degree in Computer Systems Networking and Telecommunications at Fontys University of Applied Sciences.
 
 ### 🛠️ Skills & Technologies
 
