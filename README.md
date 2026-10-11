@@ -59,6 +59,7 @@
 **Daily Driver**
 <br>
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ### 📈 GitHub Stats
 
